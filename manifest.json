@@ -1,0 +1,10 @@
+{
+  "name": "Nectar Chinese – My Vocabulary Garden",
+  "short_name": "Nectar Chinese",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff9ef",
+  "theme_color": "#702d42",
+  "description": "Sổ tay học tiếng Trung cá nhân",
+  "icons": []
+}
